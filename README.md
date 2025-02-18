@@ -18,5 +18,5 @@ Este é o meu primeiro projeto de uma loja simples, desenvolvido apenas no front
    ```bash
    git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
 
-#Atenção:
+# Atenção:
 Este projeto contém alguns bugs, pois foi o meu primeiro, e o código pode não ser tão legível quanto deveria. Agradeço pela compreensão e garanto que trabalhei para melhorar a qualidade dos códigos que realizo hoje em dia.
