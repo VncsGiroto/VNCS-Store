@@ -16,7 +16,7 @@ Este é o meu primeiro projeto de uma loja simples, desenvolvido apenas no front
 ## Como Rodar o Projeto
 1. Faça o clone deste repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+   git clone https://github.com/VncsGiroto/VNCS-Store
 
 # Atenção:
 Este projeto contém alguns bugs, pois foi o meu primeiro, e o código pode não ser tão legível quanto deveria. Agradeço pela compreensão e garanto que trabalhei para melhorar a qualidade dos códigos que realizo hoje em dia.
