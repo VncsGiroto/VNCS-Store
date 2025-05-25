@@ -1,6 +1,7 @@
 # Loja Front-End
 
 Este é o meu primeiro projeto de uma loja simples, desenvolvido apenas no front-end, com o objetivo de aprender e praticar JavaScript, CSS e HTML.
+Link da página: https://vncsgiroto.github.io/VNCS-Store/
 
 ## Funcionalidades
 - Exibição de produtos com imagens e preços.
