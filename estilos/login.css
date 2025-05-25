@@ -101,3 +101,19 @@ body{
     font-size: 30px;
     font-weight: bold;
 }
+#voltarBtn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #f1b486;
+  border: 2px solid #f1b486;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#voltarBtn:hover {
+  background-color: #f1b486;
+  color: #2e1c1c;
+}
